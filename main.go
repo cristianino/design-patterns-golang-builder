@@ -8,5 +8,6 @@ import (
 
 func main() {
 	fmt.Println("Inicializando la aplicación....")
+	fmt.Println()
 	myapp.Run()
 }
